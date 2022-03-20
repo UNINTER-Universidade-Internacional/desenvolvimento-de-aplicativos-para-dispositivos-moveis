@@ -16,5 +16,5 @@ print("Valor Calculado de desconto: {}. Valor final do produto: {}".format(desco
 
 # Aluno: Luan Henrique Nutels Moraes
 # Curso: Desenvolvimento de Aplicativos Para Dispositivos Móveis
-# Disciplina: Lógica de programação e Algoritmo.
+# Disciplina: Lógica de programação e Algoritmo
 # @ UNINTER Centro Universitário Internacional.

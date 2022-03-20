@@ -14,5 +14,5 @@ print('Valor a ser pago: {}'.format(preco))
 
 # Aluno: Luan Henrique Nutels Moraes
 # Curso: Desenvolvimento de Aplicativos Para Dispositivos Móveis
-# Disciplina: Lógica de programação e Algoritmo.
+# Disciplina: Lógica de programação e Algoritmo
 # @ UNINTER Centro Universitário Internacional.
